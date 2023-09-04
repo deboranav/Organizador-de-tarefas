@@ -1,16 +1,3 @@
-# appzinho
+# Organizador de Tarefas Gamificado
 
-O primeiro
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Para início dos meus estudos em Flutter, desenvolvi esse App Organizador de Tarefas Gamificado que consiste em uma tela com algumas atividades a serem cumpridas (como ler, fazer exercícios e etc) e suas respectivas dificuldades (sendo 1 para a mais fácil e 5 para a mais difícil). A cada vez que a tarefa é executada, o usuário pode clicar no botão "level up" e a barra de progresso vai crescer. De acordo com a dificuldade da tafera, a barra demora mais ou menos para chegar em seu último nível. 
